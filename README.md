@@ -2,7 +2,7 @@
 
 El presente proyecto tiene como proposito generar un codigo mediante python que permita el envio de documentos word en simultaneo.
 
-**Narrativa:** el profesor de escuela All GoHer requiere enviar el resultado de las calificaciones de los alumnos; pero, se pretende evitar la elaboración de multiples documentos de word felicitando a cada uno de los estudiantes. Para ello se debe crear una plantilla de word que automaticamente cambie los nombres de cada alunmo y asigne sus notas de cada curso.
+**Narrativa:** el profesor de escuela All GoHer requiere enviar el resultado de las calificaciones de los alumnos; pero, se pretende evitar la elaboración de multiples documentos de word felicitando a cada uno de los estudiantes. Para ello se debe crear una plantilla de word que automaticamente cambie los nombres de cada alunmo y asigne sus notas de cada curso. Asimismo; se utilizara un archivo excel del cual se accederá a las notas. 
 
 **Plantilla Word**
 
@@ -23,6 +23,11 @@ El presente proyecto tiene como proposito generar un codigo mediante python que 
 
 
 **Resultado**
+
 una muestra del documento emitido a cada alumno.
 
 <img width="645" height="758" alt="image" src="https://github.com/user-attachments/assets/c29ff519-54a2-426b-a70a-079cb3390512" />
+
+
+<img width="643" height="709" alt="image" src="https://github.com/user-attachments/assets/3a6dd5ae-cb29-4031-915b-b9e1c18276b1" />
+
